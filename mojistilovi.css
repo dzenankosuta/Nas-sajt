@@ -1,0 +1,266 @@
+*{
+	margin:0;
+	
+}
+
+
+
+.kostur {width:800px; margin:0px auto; font-family:arial;}
+
+.zaglavlje {width:800px; height:140px; background-color:#cce5c8;}
+.zaglavlje, .logo {float:left;}
+.zaglavlje, .naslov {text-align:center; font-size:24px;}
+.logo img { margin-top: 20px; margin-left: 10px; border: none;}
+
+
+
+/* VERTIKALNA */
+.vn {background-color:white; width:150px;}
+.vn h5{text-align:center;}
+.vn img{margin-left:20px; border: none;}
+.vn, .sadrzaj{float:left;}
+
+.sadrzaj {width:650px;}
+
+
+
+/* POCETNA */
+.uvodni {text-align:center; 
+padding: 15px 15px 0px 15px;}
+
+.dze {float:left; 
+      padding-left:40px;
+      object-fit:cover;}
+.dze a{color:black; 
+       text-decoration:none;}
+
+	   .se {float:right; 
+     padding-right:60px;
+     object-fit:cover; }
+.sel {float:right;
+      padding-right:5px;
+	  padding-bottom:20px;}
+.sel a{color:black; 
+       text-decoration:none;}
+
+	   
+	   
+/* KONTAKT */
+.pkontakt {padding: 15px 0px 0px 15px;}
+
+.dzekontakt, .dzeslika {float:left;}
+.dzeslika {padding:15px 0px 0px 15px; 
+           object-fit:cover;}
+.dzekontakt {padding:0px 0px 0px 15px;}
+.dzekontakt a{color:#306C32;
+             text-decoration:none;}
+.dzekontakt a:hover{background-color:#cce5c8;
+                    padding:5px;
+					text-decoration:none;
+					border-radius:8px;}
+
+.sekontakt, .seslika {float:left;}
+.seslika {padding:15px 0px 20px 15px;
+          object-fit:cover;}
+.sekontakt {padding:15px 0px 0px 15px;}
+.sekontakt a{color:#306C32;
+            text-decoration:none;}
+.sekontakt a:hover{background-color:#cce5c8;
+                    padding:5px;
+					text-decoration:none;
+					border-radius:8px;}
+	
+	
+
+/* UKRATKO */
+.ukratkoslika {object-fit:cover;}
+.ukratkop {padding:10px 10px 20px 10px;
+           text-align:justify;}
+
+		   
+/* SPORT */		   
+.sportp {padding:20px 20px 20px 20px;
+         text-align:justify;}
+	   
+.adem {list-style-type:none;
+       }
+.mirsad	{list-style-type:none;
+       padding-bottom:20px;}  
+	
+	
+/* TRGOVINA */	   
+.trgovinap {padding:20px 20px 20px 20px;
+            text-align:justify;}
+
+.staripazar img{object-fit:cover;
+                padding:0px 100px 30px 100px; }	
+ 
+.listat ul li{list-style-type:none;
+              text-align:justify;}
+			
+.mantije img{padding:0px 120px 20px 120px;
+             object-fit:cover;}
+			 
+.cevapi img{padding:0px 120px 20px 120px;
+             object-fit:cover;}
+			 
+
+/* HOBI */			 
+.hobidz p{padding:20px 15px 0px 10px;
+         text-align:justify;}
+.hobidz img{padding: 10px 175px 20px 175px;}
+
+.hobis p{padding:10px 15px 0px 10px;
+	    text-align:justify;}
+		
+.hobis img{padding: 10px 175px 20px 175px;}
+
+
+/* PUTOVANJA */
+.putovanja p{padding:20px 20px 20px 20px;
+            text-align:justify;}
+.putovanjadz{text-align:justify;			
+             padding:20px 20px 20px 20px;}
+.putovanjadz img{padding: 10px 125px 0px 125px;
+                 object-fit:cover;
+				 }
+
+.putovanjas {text-align:justify;			
+             padding:20px 20px 20px 20px;}
+.putovanjas img{padding: 10px 100px 5px 100px;
+                object-fit:cover;}		
+
+/* STUDIRANJE */
+.studiranje p{padding:20px 20px 20px 20px;}
+.studiranje img{object-fit:cover;
+                padding: 10px 10px 20px 10px;}			
+.studiranje1, .studiranje2 {float:left;}				
+	
+	
+/* SPORTISTI */
+.sportistidz {padding:20px 20px 20px 20px;
+               text-align:justify;}
+.sportistidz img{object-fit:cover;
+                 padding: 10px 125px 10px 110px;}
+				 
+.sportistis	 {padding:20px 20px 20px 20px;
+               text-align:justify;}
+.sportistis img{object-fit:cover;
+                 padding: 10px 125px 10px 110px;}		   
+		
+
+/* PEVACI */
+.pevaciu p{padding:20px 20px 20px 20px;
+         text-align:justify;}		
+.pevaciu img{object-fit:cover;
+                 padding: 10px 75px 5px 55px;}
+.pevaciu a{text-decoration:none;
+            color:#306C32;}
+.pevaciu a:hover{background-color:#cce5c8;
+                  padding:5px;
+				  border-radius:8px;}
+				 		 
+.pevacidz {padding:5px 20px 20px 20px;
+         text-align:justify;}
+.pevacidz a{text-decoration:none;
+            color:#306C32;}
+.pevacidz a:hover{background-color:#cce5c8;
+                  padding:5px;
+				  border-radius:8px;}
+				 
+.pevacis {padding:5px 20px 20px 20px;
+         text-align:justify;}
+.pevacis a{text-decoration:none;
+            color:#306C32;}
+.pevacis a:hover{background-color:#cce5c8;
+                  padding:5px;
+				  border-radius:8px;}				 
+
+		 	 
+/* PODNOZJE */	
+.podnozje {background-color:#306C32; width:800px; height:35px;}
+.podnozje h4{float:right; color:black; padding:8px 5px 0px 0px;}
+
+
+/* NAV MENI */
+.navbar {
+	overflow: hidden;
+	background-color: #306C32;
+	font-family:arial;
+	align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .navbar a {
+	float: left;
+	font-size: 16px;
+	color: rgb(0, 0, 0);
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .dropdown {
+	float: left;
+	overflow: hidden;
+  }
+  
+  .dropdown .dropbtn {
+	font-size: 16px;  
+	border: none;
+	outline: none;
+	color: rgb(0, 0, 0);
+	padding: 14px 16px;
+	background-color:#306C32;
+	font-family: arial;
+	margin: 0;
+	align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+	background-color: #cce5c8;
+	border-radius: 8px;
+  }
+  
+  .dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #306C32;
+	min-width: 160px;
+	box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	z-index: 1;
+  }
+  
+  .dropdown-content a {
+	float: none;
+	color: black;
+	padding: 12px 16px;
+	text-decoration: none;
+	display: block;
+	text-align: left;
+  }
+  
+  .dropdown-content a:hover {
+	background-color:#cce5c8;
+  }
+  
+  .dropdown:hover .dropdown-content {
+	display: block;
+  }
+  .aktivna {background-color:#cce5c8;}
+
+  #vrh {padding-bottom:10px;
+       }
+  #vrh a{color:#306C32;  
+         text-decoration:none;
+		}
+  #vrh a:hover{background-color:#cce5c8;
+               border-radius:8px;
+			   padding:5px;
+			   }         

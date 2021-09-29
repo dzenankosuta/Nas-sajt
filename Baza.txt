@@ -1,0 +1,67 @@
+<!doctype html>
+<html>
+
+<head>
+    <title> Novi Pazar </title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="mojistilovi.css">
+</head>
+
+<body>
+    <div class="kostur">
+        <div class="zaglavlje">
+            <div class="logo"> <a href="index.html"><img src="logo.png" width="150px" height="130px" alt="logo sajta" /></a></div><br><br>
+            <div class="naslov">
+                <h1> NOVI PAZAR </h1>
+            </div>
+        </div>
+        <div style="clear:both;" />
+
+
+        <div class="navbar">
+            <a href="index.html">POÈETNA</a>
+            <div class="dropdown">
+                <button class="dropbtn">O GRADU
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content">
+                    <a href="ukratko.html">Ukratko</a>
+                    <a href="trgovina.html">Trgovina</a>
+                    <a href="sport.html">Sport</a>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">O NAMA
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content">
+                    <a href="hobi.html">Moj hobi</a>
+                    <a href="putovanja.html">Moja putovanja</a>
+                    <a href="studiranje.html">Moje studiranje</a>
+					<a href="sportisti.html">Moji sportovi i sportisti</a>
+					<a href="pevaci.html">Moje pesme i pevaèi</a>
+                </div>
+            </div>
+           <a href="kontakt.html">KONTAKT</a>
+        </div>
+
+
+        <div class="vn">
+            <h5> Možete nas naæi na: </h5>
+            <br>
+            <a href="https://www.facebook.com/GUNoviPazar/" target="_blank"><img src="facebook.png" width="100px" height="100px" /></a>
+            <br>
+            <a href="https://www.instagram.com/novi_pazar_danas/?hl=sr" target="_blank"><img src="instagram.png" width="99px"
+                    height="99px" /></a>
+        </div>
+        <div class="sadrzaj">
+
+		</div>
+        <div style="clear:both;" />
+        <div class="podnozje">
+            <h4> Dženan Košuta i Selma Hadžimujoviæ, 2018 </h4>
+        </div>
+    </div>
+</body>
+
+</html>
